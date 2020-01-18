@@ -1,9 +1,9 @@
 # a-simple-practice-gogogo
 一个简单的小练习，关于练习使用github进行协作开发的
 
-- 853349889@qq.com
-- 1084301506@qq.com
-- 
+- 853349889@qq.com  
+- 1084301506@qq.com  
+- 2720512973@qq.com  
 - 
 - 
 
