@@ -18,4 +18,5 @@
 - 更改完之后add, commit, push一条龙
 - 然后在github的网页端发起pull request，把你的更改从你fork的仓库合并进我的仓库
 - 如果使用vscode的话，在左侧的源代码管理可以很方便的进行git相关的操作
+- 然后访问 [我们的主项目](https://github.com/ZsgsDesign/NOJ) 点击右上角的Star
 - 然后就是这样了
